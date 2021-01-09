@@ -10,6 +10,7 @@
     <version>1.0</version>
     <modules>
         <module>01-爬虫基础</module>
+        <module>02-jsoup</module>
     </modules>
 
 
