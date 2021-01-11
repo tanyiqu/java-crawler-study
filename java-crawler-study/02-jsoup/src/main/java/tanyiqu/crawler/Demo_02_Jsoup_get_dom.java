@@ -10,7 +10,7 @@ import org.junit.Test;
 import java.io.IOException;
 import java.net.URL;
 
-public class Demo_02_Jsoup_dom {
+public class Demo_02_Jsoup_get_dom {
 
     @Test
     public void getElementById() throws IOException {
